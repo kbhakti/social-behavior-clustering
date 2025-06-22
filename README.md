@@ -29,22 +29,5 @@ Extrovert vs. Introvert Personality Traits Dataset(https://www.kaggle.com/datase
 
 ## Contributors
 Teammates: Bhakti Kanungo, Manasa sai Karaka, Evin Joy
-
-## Methods Used
-- To be Updated
-
-## Technologies
-
-- Python
-
-### Questions and Hypotheses
--To be updated
-  
-### Methods Used
--To be updated
-
- ### Challenges 
- -To be updated
-
 ## License
 This project is licensed under the MIT License, allowing users to freely use, modify, and distribute the work with proper attribution. The full license details are available in the LICENSE file included in the project folder.

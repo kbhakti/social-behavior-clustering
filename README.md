@@ -12,6 +12,21 @@ To set up the project locally, follow these steps:
    https://github.com/kbhakti/social-behavior-clustering
    cd social-behavior-clustering
 
+2. Install Dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the model clusters:
+   
+   ```bash
+   python model_cluster_api.py
+
+5. Run the Streamlit Application:
+   
+   ```bash
+   streamlit run streamlit_cluster_app.py
+
 ## Objective
 
 Project Description: This project aims to uncover hidden personality archetypes based on behavioral and social activity data using unsupervised machine learning techniques. By applying clustering algorithms to features such as time spent alone, social event attendance, and social media engagement, we aim to segment individuals into distinct personality-based groups beyond the binary classification of extrovert vs. introvert. These insights can drive targeted marketing, personalized content recommendations, and mental wellness interventions.
